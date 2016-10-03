@@ -1,1 +1,8 @@
-public class
+public class Calculator
+ {
+     public static void main(String args[])
+      {
+          /Method Container
+          System.out.println("Hello World!");
+      }
+  }
